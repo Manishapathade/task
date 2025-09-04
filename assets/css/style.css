@@ -79,7 +79,7 @@ max-width: 100%;
 
 .img2{
    max-width: 98%;
-    height: auto;
+    height: 500px;
     object-fit: cover;
 }
 
